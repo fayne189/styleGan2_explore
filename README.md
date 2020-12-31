@@ -12,7 +12,7 @@ explore styleGan2 on Colab
 参考环境搭配文章
 
 1. [Winodows](https://www.cnblogs.com/wangpg/p/13190400.html)
-2. [Linux}(https://blog.csdn.net/u011583927/article/details/88584934)
+2. [Linux](https://blog.csdn.net/u011583927/article/details/88584934)
 
 
 ## 代码说明
