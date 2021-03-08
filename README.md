@@ -15,5 +15,3 @@ explore styleGan2 on Colab
 2. [Linux](https://blog.csdn.net/u011583927/article/details/88584934)
 
 
-## 代码说明
-计划录制youtube视频说明，尽请期待！！
